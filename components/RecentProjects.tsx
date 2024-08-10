@@ -21,8 +21,7 @@ const RecentProjects = () => {
               <div
                 className="relative flex items-center 
               justify-center sm:w-[570px] w-[80vw] 
-              overflow-hidden h-[20vh]
-              sm:h-[40vh] h-[30vh] mb-10"
+              overflow-hidden sm:h-[40vh] h-[30vh] mb-10"
               >
                 <div
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl
@@ -32,12 +31,16 @@ const RecentProjects = () => {
                 </div>
                 <img src={img} alt={title} className="z-10 absolute bottom-0" />
               </div>
-              <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">
-                {title}
-              </h1>
-              <p className="lg:text-xl lg:font-normal font-light text-sm line-clamp-2">
-                {des}
-              </p>
+              <div>
+                <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">
+                  {title}
+                </h1>
+              </div>
+              <div>
+                <p className="lg:text-xl lg:font-normal font-light text-sm line-clamp-2">
+                  {des}
+                </p>
+              </div>
               <div className="flex items-center justify-between mt-7 mb-3">
                 <div className="flex items-center">
                   {iconLists.map((icon, index) => (

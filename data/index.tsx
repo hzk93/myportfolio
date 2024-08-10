@@ -108,33 +108,21 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Hassan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Hassan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Hassan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Hassan is the ideal partner.",
+    name: "Ashfaq A.",
+    title: "MD at GlobalExecLimo USA",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "As a Full Stack Developer at our firm, Hassan always delivered on time and had never let us down. He is dependable and reliable.",
+    name: "Nabeel M.",
+    title: "CEO at PetrolSolutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "During the three years that, Hassan spent as the Technical Manager at our firm he improved our overall engineering processess, streamlined alot of our existing issues.",
+    name: "Iqbal Ahmed",
+    title: "Director at HighQ Pharmaceuticals",
   },
 ];
 
@@ -174,29 +162,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Technical Manager/Electronic Engineer",
+    desc: "Joined a local pharmaceutical as a trainee led my way towards technical manager, due to sheer hardwork and quality. Worked for three years.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Full-stack Developer ",
+    desc: "MERN/MEAN Stack, Love to work with upcoming and new technologies, Worked on a number of projects for different clients.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Webdeveloper",
+    desc: "Worked with a number of local clients on Wordpress based projects. Ensured to deliver an optimized product.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Full-stack Developer",
+    desc: "Developed and maintained user-facing features using modern frontend/backend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
