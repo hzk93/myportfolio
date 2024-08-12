@@ -195,15 +195,18 @@ export const socialMedia = [
     id: 1,
     img: "/git.svg",
     alt: "github logo",
+    link: "https://github.com/hzk93",
   },
   {
     id: 2,
     img: "/twit.svg",
     alt: "twitter logo",
+    link: "https://x.com/hzk_engr",
   },
   {
     id: 3,
     img: "/link.svg",
     alt: "linkedin logo",
+    link: "https://www.linkedin.com/in/engrhzk/",
   },
 ];
