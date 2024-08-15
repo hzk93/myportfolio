@@ -183,7 +183,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Full-stack Developer",
+    title: "Web Developer",
     desc: "Developed and maintained user-facing features using modern frontend/backend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
